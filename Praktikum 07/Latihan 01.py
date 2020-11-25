@@ -3,5 +3,5 @@ try :
     print (file.read())
 except (FileNotFoundError):
     print('File tidak ditemukan')
-
+#test
 #except (FileNotFoundError, FileNotFoundError(2, 'No such file or directory'):
