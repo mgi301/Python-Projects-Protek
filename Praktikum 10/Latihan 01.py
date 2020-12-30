@@ -1,5 +1,5 @@
 #Soal 1
-#file= "Bassbooster"
+#file= "File soal 1.txt"
 
 openthis = open('D:\KULIAH\PROTEK\Python Projects\Python-Projects-Protek\Praktikum 10/File soal 1.txt', 'r')
 #PLESE DOWNLOAD FILENYA
